@@ -1,2 +1,1 @@
-# Data-Structure
-Data Structure Lab Work
+# Data-Structure and Problem solving
